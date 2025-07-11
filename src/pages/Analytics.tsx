@@ -7,7 +7,7 @@ import {
   TrendingUp, Users, MessageCircle, Clock, ThumbsUp, ThumbsDown, 
   Download, Calendar, Filter, BarChart3, PieChart, Activity 
 } from "lucide-react";
-import { LineChart, Line, AreaChart, Area, PieChart as RechartsPieChart, Cell, BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Pie } from 'recharts';
+import { LineChart, Line, AreaChart, Area, PieChart as RechartsPieChart, Pie, Cell, BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 import Header from "@/components/Header";
 
 const Analytics = () => {
